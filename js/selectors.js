@@ -6,3 +6,7 @@ function paragraphSelector(){
 function lasImageSelector(){
   return $('img:last')
 }
+
+function ninjaBabySelector(){
+  
+}
