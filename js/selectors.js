@@ -8,5 +8,5 @@ function lasImageSelector(){
 }
 
 function ninjaBabySelector(){
-  return $('#')
+  return $('#baby-ninja')
 }
